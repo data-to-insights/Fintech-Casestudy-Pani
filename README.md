@@ -1,5 +1,5 @@
 # Fintech-Casestudy-Pani
-Fintech Case study - Pani
+This will be my case study on a Fintech company
 # TITLE
 
 ## Overview and Origin
