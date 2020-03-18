@@ -12,7 +12,7 @@
 
 * Fiserv is listed on NASDAQ exchange. Following are highlights from Investor Relations section of their website
 
- |        | FY 2019 | YoY |
+ |        | FY 2019  | YoY  |
  | Revenue | $10.2B | + 75% |
  | EPS (Adj) | $4.0 | + 16% |
  | Free Cash flow | $3.29B | + 16% | 
