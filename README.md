@@ -1,10 +1,8 @@
-# Fintech-Casestudy-Pani
-This will be my case study on a Fintech company
-# TITLE
+# Fiserv Corporation
 
 ## Overview and Origin
 
-* Name of company
+* Fiserv corporation (NASDAQ: FISV) was born in 1984 with the merger of "First Data Processing" and "Sunshine State Systems"
 
 * When was the company incorporated?
 
