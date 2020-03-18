@@ -21,7 +21,12 @@
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+* Fiserv provides the following solutions to financial institutions -
+..* Payments
+..* Processing Services
+..* Customer and Channel Management
+..* Risk and Compliance
+..* Insights and Optimization
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
