@@ -2,15 +2,20 @@
 
 ## Overview and Origin
 
-* Fiserv corporation (NASDAQ: FISV) was born in 1984 with the merger of "First Data Processing" and "Sunshine State Systems"
+* Fiserv corporation (NASDAQ: FISV) was born with the merger of "First Data Processing" and "Sunshine State Systems"
 
-* When was the company incorporated?
+* The company was incorporated in 1984
 
-* Who are the founders of the company?
+* George Dalton and Leslie Luma founded the company
 
-* How did the idea for the company (or project) come about?
+* The idea:  By expanding on the data processing capabilities of regional operations to build a nationwide enterprise for financial institutions (banks and credit unions)
 
-* How is the company funded? How much funding have they received?
+* Fiserv is listed on NASDAQ exchange. Following are highlights from Investor Relations section of their website
+
+         | FY 2019 | YoY |
+ Revenue | $10.2B | + 75% |
+ EPS (Adj) | $4.0 | + 16% |
+ Free Cash flow | $3.29B | + 16% | 
 
 
 ## Business Activities:
