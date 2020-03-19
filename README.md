@@ -94,4 +94,4 @@
 
 * Eventhough Fiserv is an undisputed leader in Merchant payments, more recent companies such as VENMO and ZELLE have become leaders in personal payments.
 * Fiserv with the partnerships with major banks and credit unions is uniquely positioned to compete in personal payment space.
-* Recommend to develop and offer competing payment technology to VENMO, ZELLE as they enter into the P2P market space
+* Recommend to develop and offer competing payment technology to VENMO, ZELLE as they enter into the P2P market space.
