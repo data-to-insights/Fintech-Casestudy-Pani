@@ -21,22 +21,50 @@
 
 ## Business Activities:
 
-* Fiserv provides the following solutions to financial institutions -
+* Fiserv provides the following solutions -
   * Payments
   * Processing Services
   * Customer and Channel Management
   * Risk and Compliance
   * Insights and Optimization
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* Fiserv addresses the following industries -
+  * Associations
+  * Banks
+  * Biller Solutions
+  * Business Banking
+  * Corporate Services
+  * Credit Unitons
+  * Government
+  * Healthcare
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* Fiserv uses a variety of technology solutions. Following are some of the payment technologies offered by Fiserv -
+  * ACH Solutions
+  * ATM Solutions
+  * Bank Platforms
+  * Biller Solutions
+  * Card Solutions
+  * Cash Management & Resolution
+  * Cash & Logistics
+  * Credit & Debit Solutions
+  * Credit Union Platforms
+  * Electronic Billing & Payment Solutions
+  * Enterprise Payments Solutions
+  * Float Management Solutions
+  * Item Processing Solutions
+  * Mobile Solutions
+  * Output Solutions
+  * Payments Network
+  * Personal Payments Services
+  * Remittance Solutions
+  * Remote Deposit Capture Solutions
+  * Treasury Management
+  * Walk-in Solutions
 
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+* Fiserv has been servicing in several domains for the financial industry most notably in payments. It's award winning _BillPay_ system is used by several major banks and credit unions.
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
