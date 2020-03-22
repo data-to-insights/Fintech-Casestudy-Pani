@@ -82,7 +82,6 @@
 
 * Fiserv consistently gets top awards and recognitions. 
   * Listed on FORTUNE World's Most Admired Companies for 7 years in a row
-  * Aite Group 2019: Best-in-Class Among U.S. Core Banking System Providers
   * CNP Award 2019: Best Mobile Solution (First Data)
   * CreditUnions.com Grand Winner, 2019: Innovation Series – Mobile
   * FinTech Breakthrough Awards 2019: Best Digital Mortgage Product
@@ -95,3 +94,13 @@
 * Eventhough Fiserv is an undisputed leader in Merchant payments, more recent companies such as VENMO and ZELLE have become leaders in personal payments.
 * Fiserv with the partnerships with major banks and credit unions is uniquely positioned to compete in personal payment space.
 * Recommend to develop and offer competing payment technology to VENMO, ZELLE as they enter into the P2P market space.
+
+## References
+
+* [fiserv] (https://www.fiserv.com)
+* [FORTUNE World's Most Admired Companies] (https://fortune.com/worlds-most-admired-companies)
+* [Aite Group - Leading Providers of US Core Banking Systems] (https://www.aitegroup.com/report/aim-evaluation-leading-providers-us-core-banking-systems)
+* [CreditUnion.com Innovation Series Winners] (https://www.creditunions.com/press-center/article/43509/creditunions-com-s-2019-innovation-series-winners-announced/)
+* [FinTech Breakthrough Awards] (https://fintechbreakthrough.com/2019-winners)
+* [SWIFT Certfied Applications] (https://www.swift.com/about-us/partner-programme/swift-certified-applications/swift-certified-applications-finder)
+* [Housing Wire Tech100 Mortgage Winners] (https://www.housingwire.com/articles/here-are-the-2020-housingwire-tech100-mortgage-winners/)
