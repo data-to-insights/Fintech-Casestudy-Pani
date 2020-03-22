@@ -34,7 +34,7 @@
   * Biller Solutions
   * Business Banking
   * Corporate Services
-  * Credit Unitons
+  * Credit Unions
   * Government
   * Healthcare
 
